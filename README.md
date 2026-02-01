@@ -1,8 +1,8 @@
-<h1 align="center">Salve! Salve! Seja bem vindo(a)</h1>
+<h1 align="center">🤙Salve! Salve! Seja bem vindo(a)</h1>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">😆Sobre mim</h2>
 
 ###
 
